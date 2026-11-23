@@ -183,6 +183,6 @@ Simulações automatizadas **não substituem playtests**. O modelo não represen
 
 Se você quiser contribuir, teste configurações diferentes e compartilhe as regras utilizadas, a semente da simulação e os resultados observados.
 
----
+----
 
 **Feito para experimentar, analisar e melhorar cada rodada.** 🍳
